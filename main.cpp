@@ -48,6 +48,6 @@ int main() {
         cout << "  " << adjactentVertices.front() << endl;
         adjactentVertices.pop();
     }
-    
+
     return 0;
 }
